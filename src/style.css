@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+.title{
+    font-size: 40px;
+    font-family: 'Yomogi', cursive;
+}                  
+.red{
+    color:#fd79a8;
+}
+video{
+    padding-top: 5%;
+}
+img {
+    padding-bottom: 5%;
+}
